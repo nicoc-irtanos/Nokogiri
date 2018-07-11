@@ -1,0 +1,5 @@
+def get_the_email_of_a_townhall_from_its_webpage()
+end
+
+def get_all_the_urls_of_val_doise_townhalls
+end
